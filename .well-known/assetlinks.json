@@ -1,10 +1,15 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.philippevallet_dot.twa",
-    "sha256_cert_fingerprints": [
-      "17:FB:61:DA:E2:FE:77:09:F4:D1:21:B8:57:D5:3A:3F:7C:15:7F:D0:F2:AD:C2:92:7C:24:EA:CA:74:F1:74:5A"
-    ]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.philippevallet_dot.twa",
+      "sha256_cert_fingerprints": [
+        "17:FB:61:DA:E2:FE:77:09:F4:D1:21:B8:57:D5:3A:3F:7C:15:7F:D0:F2:AD:C2:92:7C:24:EA:CA:74:F1:74:5A",
+        "3F:29:6F:24:95:69:41:60:BB:34:FC:DA:32:58:AE:69:44:79:C0:77:A0:00:0E:F7:23:12:85:16:BC:BE:EF:57"
+      ]
+    }
   }
-}]
+]
